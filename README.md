@@ -5,6 +5,6 @@
 
 - :man_technologist: Java Software Engineer na **Avanade Brasil**.
 - :books: Atualmente estudando MBA Fullstack Development, Microservices, Cloud & IoT na FIAP .
-
+- :heavy_check_mark: Java, Spring, Kafka, RabbitMq, Angular, Typescript, Node
 
 
