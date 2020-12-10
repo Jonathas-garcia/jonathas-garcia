@@ -7,6 +7,6 @@
 
 - :man_technologist: Engenheiro de Software na **CI&T**.
 - :books: Atualmente estudando MBA Fullstack Development, Microservices, Cloud & IoT na FIAP .
-- :heavy_check_mark: Java, Spring, Kafka, RabbitMq, Angular, Typescript, Node
+- :heavy_check_mark: Java, Spring, Kafka, RabbitMq, Angular, Typescript, Node, Docker, AWS.
 
 
