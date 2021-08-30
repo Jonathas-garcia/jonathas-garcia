@@ -5,5 +5,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mailto:jonathas.cgarcia@gmail.com)](mailto:jonathas.cgarcia@gmail.com)
 
 - :man_technologist: Engenheiro de Software na **CI&T**.
-- :books: Atualmente estudando MBA Fullstack Development, Microservices, Cloud & IoT na FIAP .
+- :books: Formado no MBA Full Stack development, Design, engineering & deployment pela FIAP.
 - :heavy_check_mark: Java, Spring, Angular, Typescript, Node, Docker, AWS.
